@@ -1,0 +1,23 @@
+TRANSFAC:
+
+http://gene-regulation.com/pub/databases.html
+
+information on transcription factor, binding site of TF and regulated gene
+
+TF2DNA:
+
+http://fiserlab.org/tf2dna_db//index.html
+
+regulator and regulated gene
+
+Article:
+
+Berger 2006
+Chen 2011
+Gerstein 2012
+Jolma 2013
+Kulakovskiy 2013
+Mathelier 2014
+Matys 2006
+Scharer2009
+Weirauch 2014

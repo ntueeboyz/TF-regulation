@@ -1,0 +1,101 @@
+SourceGENES,TargetGENES,Interaction,Edges
+Gene 9,Gene 4,1,activation
+Gene 1,Gene 4,0.972823784500737,repression
+Gene 1,Gene 6,0.966478499400834,repression
+Gene 9,Gene 3,0.955202084426739,repression
+Gene 9,Gene 6,0.953072770027802,activation
+Gene 1,Gene 3,0.934120126185466,repression
+Gene 2,Gene 4,0.919318316392267,activation
+Gene 5,Gene 6,0.907119080459616,activation
+Gene 7,Gene 4,0.892157236833295,activation
+Gene 2,Gene 3,0.887431259949492,repression
+Gene 5,Gene 4,0.885011620544135,repression
+Gene 2,Gene 6,0.880944881613524,activation
+Gene 7,Gene 6,0.873355303994756,activation
+Gene 7,Gene 3,0.870898846205439,repression
+Gene 10,Gene 4,0.847127888247606,repression
+Gene 8,Gene 4,0.843389965958442,repression
+Gene 5,Gene 3,0.839203769927737,repression
+Gene 8,Gene 3,0.807984584710924,repression
+Gene 10,Gene 3,0.807968899031723,repression
+Gene 10,Gene 6,0.803085298479558,repression
+Gene 8,Gene 6,0.79469388990763,repression
+Gene 9,Gene 8,0.669969114546122,repression
+Gene 1,Gene 8,0.622746261207586,activation
+Gene 7,Gene 8,0.610321298448323,repression
+Gene 2,Gene 8,0.604582775437804,repression
+Gene 9,Gene 2,0.595505073005248,activation
+Gene 9,Gene 10,0.590278447909087,repression
+Gene 9,Gene 1,0.584208114096369,activation
+Gene 5,Gene 8,0.567523513400062,activation
+Gene 1,Gene 2,0.55991082605386,repression
+Gene 10,Gene 8,0.55868587338475,activation
+Gene 1,Gene 10,0.558446408721257,activation
+Gene 1,Gene 9,0.553457563037263,activation
+Gene 2,Gene 10,0.53978785379189,repression
+Gene 7,Gene 10,0.539699510043477,repression
+Gene 7,Gene 9,0.53959025329027,activation
+Gene 2,Gene 9,0.537937280708431,activation
+Gene 7,Gene 2,0.535316735127823,activation
+Gene 2,Gene 1,0.534302440242305,repression
+Gene 9,Gene 7,0.530885943902239,activation
+Gene 9,Gene 5,0.521561225030608,repression
+Gene 7,Gene 1,0.518249972140007,repression
+Gene 8,Gene 9,0.508180888698128,repression
+Gene 8,Gene 2,0.506542499250912,repression
+Gene 1,Gene 5,0.506337181985349,activation
+Gene 5,Gene 2,0.50549947070097,repression
+Gene 1,Gene 7,0.503896281508134,repression
+Gene 5,Gene 9,0.503825313916442,repression
+Gene 8,Gene 10,0.502693871915998,activation
+Gene 5,Gene 10,0.50192006769016,activation
+Gene 10,Gene 2,0.499090400572885,repression
+Gene 10,Gene 9,0.498610541149504,repression
+Gene 5,Gene 1,0.49782960660955,activation
+Gene 8,Gene 1,0.496221522235209,activation
+Gene 10,Gene 1,0.494816174973494,activation
+Gene 2,Gene 5,0.482390354933598,repression
+Gene 2,Gene 7,0.47974015462096,activation
+Gene 7,Gene 5,0.4671577912432,repression
+Gene 5,Gene 7,0.461109745428028,repression
+Gene 8,Gene 7,0.44876891100991,repression
+Gene 10,Gene 7,0.443057124979119,repression
+Gene 10,Gene 5,0.442751823813688,activation
+Gene 8,Gene 5,0.441149656319193,activation
+Gene 4,Gene 6,0.409785204517318,activation
+Gene 3,Gene 6,0.409105975619513,activation
+Gene 3,Gene 4,0.40608507656533,repression
+Gene 4,Gene 3,0.390914282589232,repression
+Gene 3,Gene 8,0.260823054613372,repression
+Gene 4,Gene 8,0.259851682232555,repression
+Gene 4,Gene 10,0.234303864401987,repression
+Gene 4,Gene 2,0.232972981826578,activation
+Gene 3,Gene 2,0.232895475310223,repression
+Gene 3,Gene 9,0.231953012973951,repression
+Gene 3,Gene 1,0.230150110423561,repression
+Gene 3,Gene 10,0.229832309457794,repression
+Gene 4,Gene 9,0.229158454053585,activation
+Gene 4,Gene 1,0.227674704207555,repression
+Gene 3,Gene 7,0.212144156400882,repression
+Gene 4,Gene 7,0.211146396201163,activation
+Gene 4,Gene 5,0.209704209692489,repression
+Gene 3,Gene 5,0.208627412036751,repression
+Gene 6,Gene 4,0.00851785986954216,activation
+Gene 6,Gene 3,0.00820736196081086,activation
+Gene 6,Gene 8,0.00634217200233475,repression
+Gene 6,Gene 9,0.00543052560632582,activation
+Gene 6,Gene 10,0.00539738394306533,repression
+Gene 6,Gene 2,0.00533004442187761,activation
+Gene 6,Gene 7,0.00497771362798525,activation
+Gene 6,Gene 1,0.00478550787759891,repression
+Gene 6,Gene 5,0.00427865465204036,activation
+Gene 1,Gene 1,0,no regulation
+Gene 2,Gene 2,0,no regulation
+Gene 3,Gene 3,0,no regulation
+Gene 4,Gene 4,0,no regulation
+Gene 5,Gene 5,0,no regulation
+Gene 6,Gene 6,0,no regulation
+Gene 7,Gene 7,0,no regulation
+Gene 8,Gene 8,0,no regulation
+Gene 9,Gene 9,0,no regulation
+Gene 10,Gene 10,0,no regulation
