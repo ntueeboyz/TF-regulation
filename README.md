@@ -1,4 +1,4 @@
-# TF-regulation
+# TF regulation
 ## Master thesis: Correlation-based detection of activation/repression transcription factor regulation from gene expression
 
 ## The folders quick guide
